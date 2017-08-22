@@ -12,6 +12,17 @@
         "lint": "ng lint",
         "e2e": "ng e2e"
     },
+    "repository": {
+        "type": "git",
+        "license": "MIT",
+        "url": "git+https://github.com/nileshpatel17/angular-cli-jest.git"
+    },
+    "keywords": ["angular", "jest"],
+    "author": "Nilesh Patel",
+    "bugs": {
+        "url": "https://github.com/nileshpatel17/angular-cli-jest/issues"
+    },
+    "homepage": "https://github.com/nileshpatel17/angular-cli-jest#readme",
     "private": true,
     "dependencies": {
         "@angular/animations": "^4.0.0",
