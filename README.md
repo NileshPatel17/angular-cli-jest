@@ -16,7 +16,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `npm run test` to execute the unit tests
+Run `npm run test` to execute the unit tests.
+
 Run `npm run test:watch` to execute the unit tests in watch mode
  
 ## Running end-to-end tests
